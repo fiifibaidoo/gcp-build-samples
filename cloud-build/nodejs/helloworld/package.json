@@ -1,0 +1,14 @@
+{
+    "name": "container-helloworld",
+    "version": "1.0.0",
+    "description": "Simple hello world application in Node",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "",
+    "license": "Apache-2.0",
+    "dependencies": {
+      "express": "^4.16.4"
+    }
+  }
